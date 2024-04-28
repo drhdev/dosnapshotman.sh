@@ -52,7 +52,7 @@ Ensure the `LOG_FILE` path in the script is writable. Adjust path and permission
 
 ## Contributing
 
-Contributions to `dosnapshotman.py` are welcome! Please fork the repository and submit a pull request with your proposed changes. For major changes, please open an issue first to discuss what you would like to change.
+Contributions to `dosnapshotman.sh` are welcome! Please fork the repository and submit a pull request with your proposed changes. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 
